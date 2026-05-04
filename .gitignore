@@ -1,0 +1,11 @@
+.DS_Store
+**/.env
+**/.env.*
+**/.idea
+**/*.local
+
+**/node_modules/
+**/dist/
+**/dist-ssr/
+
+*.log
